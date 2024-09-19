@@ -1,0 +1,351 @@
+117,232
+Umm Al-Nasr,31.57056171457382,34.522391486970804,city
+Beit Lahia,31.55237972382846,34.50973519249414,city
+Beit Hanoun,31.539103882041946,34.53848654615244,city
+Al-Naser,31.535211549339927,34.46421859356896,city
+Jabalia,31.530413874612798,34.48154165241116,city
+Gaza,31.50307913332418,34.468130167761714,city
+Jaber,31.58,34.49,city
+Kuba,31.488739267622943,34.46696306992359,city
+Shejaiya,31.501523382487363,34.47200846940695,city
+Juhor ad Dik,31.456036261683142,34.439984646623536,city
+Al Mughraqa,31.469070763411633,34.418208662501094,city
+Nuseirat Camp,31.450625132165694,34.393938900587386,city
+Bureij,31.43940754585692,34.40273325507235,city
+Maghazi,31.42242865872136,34.38769044555209,city
+Deir al Balah,31.417687442727125,34.35213256194315,city
+Wadi as Salqa,31.397428193143394,34.3662979005531,city
+Zeitoun,31.518738929636765,34.45193383631792,city
+Khan Yunis,31.366822710637657,34.3055863999956,city
+Abasan al-Kabira,31.323821633874605,34.34591320739039,city
+Khuza'a,31.310030661514567,34.34732627799843,city
+Al Fukhkhari,31.295703814261252,34.31495437668396,city
+Rafah,31.297512278838386,34.2419268201312,city
+Shokat as Sufi,31.25211902490392,34.267653377905006,city
+Al Qarya as Suwaydiya,31.323753313570318,34.223419477226784,city
+'Abasan al Jadida,31.341458275495754,34.346276699467325,city
+Al Qarara,31.372043918111274,34.33697654604445,city
+Bani Suheila,31.342652882257255,34.326970546025656,city
+Al Falouja,31.54279602583802,34.49130346816162,street
+Aljamiain,31.305928976722786,34.359318609256896,street
+Al Quds,31.53209881299588,34.4747127227578,street
+Al Salaten,31.553781727696418,34.48891405159472,street
+Al Toam,31.545769368010795,34.47279960926659,street
+Ameen Al-Husaini,31.53278385444646,34.454354095774136,street
+Omar Al Mukhtar,31.521024734544884,34.4421771854138,street
+Al Saftawy,31.539332911794805,34.482058995249574,street
+ss,31.533456856417935,34.473039581101204,street
+w,31.424411371204055,34.3548143667682,street
+Azayza,31.409827057748096,34.360189814302,street
+j,31.43856530623022,34.39497922398313,street
+bb,31.334493168141744,34.33347627396044,street
+aast,31.34098891551918,34.33960908176764,street
+yyst,31.335231167967443,34.333245892388426,street
+wwst,31.343506181736032,34.30782122761025,street
+myy,31.344055047485593,34.31540453999758,street
+omarst,31.51785057124423,34.44832815827382,street
+rashidst,31.527756567386334,34.43786060726968,street
+un,31.545573523260984,34.524444588365014,street
+Alj,31.545253504602382,34.525689133347925,street
+turn,31.539309502047036,34.53167297461666,street
+turnto,31.537911569070324,34.53292337999661,street
+ttst,31.545958466076442,34.51640012291628,street
+tsst,31.545996421493967,34.5119018777273,street
+turnright,31.50264640661596,34.46550485038482,street
+turnleft,31.50052414456457,34.463187421795965,street
+tuu,31.49997527584867,34.46395989799225,street
+corner,31.50206095982736,34.46730729484281,street
+co,31.4985482021081,34.46477528953277,street
+mgturn,31.469654457393055,34.417419047324216,street
+straight,31.51024964534082,34.459920724609276,street
+cr,31.51844544829853,34.4506840846555,street
+cc,31.439748105322746,34.40289815773613,street
+sx,31.440724871533526,34.40158039392238,street
+cv,31.442004099110882,34.40030411454604,street
+vv,31.443748206756094,34.401607270899625,street
+nn,31.28991834108919,34.24719580925628,street
+turntorafa,31.312733964433214,34.23410008042108,street
+tun,31.310349133137173,34.227595080421,street
+yuna,31.328299430989027,34.2908905380938,street
+khas,31.30999263481279,34.2816065380932,street
+gass,31.314337625508404,34.27211172460145,street
+tee,31.500059635325393,34.463924995772885,street
+tyy,31.500792190713923,34.46317726693689,street
+wq,31.50330244908735,34.46589463531776,street
+banq,31.503540629193026,34.466605809264735,street
+bbaz,31.506581343608545, 34.46510952882807,street
+alwald,31.50715091713956,34.46786980926499,street
+yaff,31.510527763704914,34.46759062275695,street
+sts,31.410030107005078,34.36003345344134,street
+srr,31.403155120425357,34.369516266932855,street
+tyr,31.340756732310805,34.34344699576644,street
+ttio,31.26108591061416,34.26418653809115,street
+ttew,31.257735889250228,34.26118372459922,street
+ui,31.25869505904539,34.26030580925496,street
+ioo,31.26108539716154,34.26415380925504,street
+op,31.26910038157918,34.25777726692761,street
+abbv,31.341258751084293,34.33976899576654,street
+ggty,31.334494262007244,34.333451575036136,street
+hhtur,31.330745590361794,34.33708572460207,street
+tuyr,31.33075475471755,34.3370535380939,street
+topt,31.334558409923822,34.333473032708255,street
+vb,31.470346592176252,34.42115680926351,street
+nm,31.465303394031572,34.426666809263274,street
+iyt,31.44618249574183,34.40136245344283,street
+out,31.444970579060808,34.39951126693456,street
+yyt,31.422387305690645,34.3829984534418,street
+nb,31.395762344676346,34.36867845344089,street
+lk,31.397308131836887,34.36576699576868,street
+rt,31.32223711298076,34.34520226692963,street
+raham,31.32068528909977,34.34311680925749,street
+poi,31.317920286588592,34.345509266929504,street
+abu,31.31041480026412,34.33683745343737,street
+kabir,31.29880765875908,34.34926845343686,street
+pout,31.457067167168766,34.43730808042683,street
+ytr,31.46838274773481,34.441112080427445,street
+rte,31.46534554520561,34.426779995771426,street
+wet,31.44504365153123,34.39946808042632,street
+df,31.361740878504158,34.33248372460334,street
+bf,31.358189854945106,34.33581335158683,street
+ghj,31.35605321229943,34.3365065380949,street
+lko,31.352393732639456,34.325328995766874,street
+mbm,31.3536120549114,34.32403135158672,street
+hvc,31.35514237607317,34.325994995767026,street
+mnbx,31.344140050876426,34.31380153809456,street
+gvf,31.343731746988333,34.308049351586305,street
+bzx,31.368348188329612,34.336078995767494,street
+ytu,31.361768523864228,34.332461995767275,street
+gtre,31.354676539070994,34.337345080422644,street
+Jaber,Nuseirat Camp
+Nuseirat Camp,Jaber
+Nuseirat Camp,w
+w,Nuseirat Camp
+Deir al Balah,w
+w,Deir al Balah
+Jabalia,Al Quds
+Al Quds,Jabalia
+Al Quds,Al Salaten
+Al Salaten,Al Quds
+Al Salaten,Al Toam
+Al Toam,Al Salaten
+Al-Naser,Al Toam
+Al Toam,Al-Naser
+Al-Naser,Ameen Al-Husaini
+Ameen Al-Husaini,Al-Naser
+Ameen Al-Husaini,Omar Al Mukhtar
+Omar Al Mukhtar,Ameen Al-Husaini
+Zeitoun,Omar Al Mukhtar
+Omar Al Mukhtar,Zeitoun
+Beit Lahia,Al Falouja
+Al Falouja,Beit Lahia
+Al Falouja,Al Saftawy
+Al Saftawy,Al Falouja
+Al Saftawy,ss
+ss,Al Saftawy
+Jabalia,ss
+ss,Jabalia
+Deir al Balah,Azayza
+Azayza,Deir al Balah
+Wadi as Salqa,Azayza
+Azayza,Wadi as Salqa
+Bureij,j
+j,Bureij
+Maghazi,j
+j,Maghazi
+Bani Suheila,bb
+bb,Bani Suheila
+Abasan al-Kabira,bb
+bb,Abasan al-Kabira
+'Abasan al Jadida,aast
+aast,'Abasan al Jadida
+aast,yyst
+yyst,aast
+Abasan al-Kabira,yyst
+yyst,Abasan al-Kabira
+Khan Yunis,wwst
+wwst,Khan Yunis
+wwst,my
+my,wwst
+Bani Suheila,my
+my,Bani Suheila
+Zeitoun,omarst
+omarst,Zeitoun
+omarst,rashidst
+rashidst,omarst
+Khan Yunis,rashidst
+rashidst,Khan Yunis
+Umm Al-Nasr,un
+un,Umm Al-Nasr
+un,Alj
+Alj,un
+Alj,turn
+turn,Alj
+Beit Hanoun,turn
+turn,Beit Hanoun
+Beit Hanoun,turnto
+turnto,Beit Hanoun
+turnto,ttst
+ttst,turnto
+ttst,tsst
+tsst,ttst
+Beit Lahia,ttst
+ttst,Beit Lahia
+Gaza,turnright
+turnright,Gaza
+turnright,turnleft
+turnleft,turnright
+turnleft,tuu
+tuu,turnleft
+tuu,corner
+corner,tuu
+corner,co
+co,corner
+Kuba,co
+co,Kuba
+Shejaiya,straight
+straight,Shejaiya
+straight,cr
+cr,straight
+Zeitoun,cr
+cr,Zeitoun
+Nuseirat Camp,cc
+cc,Nuseirat Camp
+cc,sx
+sx,cc
+sx,cv
+cv,sx
+cv,vv
+vv,cv
+Bureij,vv
+vv,Bureij
+Rafah,nn
+nn,Rafah
+nn,turntorafa
+turntorafa,nn
+turntorafa,tun
+tun,turntorafa
+Al Qarya as Suwaydiya,tun
+tun,Al Qarya as Suwaydiya
+Khan Yunis,yuna
+yuna,Khan Yunis
+yuna,khas
+khas,yuna
+khas,gass
+gass,khas
+Rafah,gass
+gass,Rafah
+Gaza,tee
+tee,Gaza
+tee,tyy
+tyy,tee
+tyy,wq
+wq,tyy
+wq,banq
+banq,wq
+banq,bbaz
+bbaz,banq
+bbaz,alwald
+alwald,bbaz
+alwald,yaff
+yaff,alwald
+Jabalia,yaff
+yaff,Jabalia
+Deir al Balah,sts
+sts,Deir al Balah
+sts,srr
+srr,sts
+Wadi as Salqa,sts
+sts,Wadi as Salqa
+'Abasan al Jadida,tyr
+tyr,'Abasan al Jadida
+Bani Suheila,tyr
+tyr,Bani Suheila
+Shokat as Sufi,ttio
+ttio,Shokat as Sufi
+ttio,ttew
+ttew,ttio
+ttew,ui
+ui,ttew
+ui,ioo
+ioo,ui
+ioo,op
+op,ioo
+Rafah,op
+op,Rafah
+Al Fukhkhari,abbv
+abbv,Al Fukhkhari
+abbv,ggty
+ggty,abbv
+ggty,hhtur
+hhtur,ggty
+hhtur,tuyr
+tuyr,hhtur
+tuyr,topt
+'Abasan al Jadida,topt
+topt,'Abasan al Jadida
+Al Mughraqa,vb
+vb,Al Mughraqa
+vb,nm
+nm,vb
+nm,iyt
+iyt,nm
+iyt,out
+out,iyt
+Nuseirat Camp,out
+out,Nuseirat Camp
+Maghazi,yyt
+yyt,Maghazi
+yyt,nb
+nb,yyt
+nb,lk
+lk,nb
+Wadi as Salqa,lk
+lk,Wadi as Salqa
+Khuza'a,rt
+rt,Khuza'a
+rt,raham
+raham,rt
+raham,poi
+poi,raham
+poi,abu
+abu,poi
+abu,kabir
+kabir,abu
+Abasan al-Kabira,kabir
+kabir,Abasan al-Kabira
+Juhor ad Dik,pout
+pout,Juhor ad Dik
+pout,ytr
+ytr,pout
+ytr,rte
+rte,ytr
+rte,wet
+wet,rte
+Nuseirat Camp,wet
+wet,Nuseirat Camp
+Al Qarara,df
+df,Al Qarara
+df,bf
+bf,df
+bf,ghj
+ghj,bf
+ghj,lko
+lko,ghj
+lko,mbm
+mbm,lko
+mbm,hvc
+hvc,mbm
+hvc,mnbx
+mnbx,hvc
+mnbx,gvf
+gvf,mnbx
+Khan Yunis,gvf
+gvf,Khan Yunis
+Al Qarara,bzx
+bzx,Al Qarara
+bzx,ytu
+ytu,bzx
+ytu,gtre
+gtre,ytu
+Bani Suheila,gtre
+gtre,Bani Suheila
